@@ -1,8 +1,8 @@
 # 88x31
 
-Animated 88×31 buttons in the old-web style. 102 so far.
+Animated 88×31 buttons in the old-web style. 132 so far.
 
-千禧年风格的 88×31 动图按钮，目前 102 张。
+千禧年风格的 88×31 动图按钮，目前 132 张。
 
 Take whatever you like, no credit needed. Hover a button to see its file name.
 
@@ -52,6 +52,7 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/vsrg.gif" width="88" height="31" alt="vsrg" title="vsrg">
 <img src="gif/ddr.gif" width="88" height="31" alt="ddr" title="ddr">
 <img src="gif/dfjk.gif" width="88" height="31" alt="dfjk" title="dfjk">
+<img src="gif/dfjk_insane.gif" width="88" height="31" alt="dfjk_insane" title="dfjk_insane">
 <img src="gif/full_combo.gif" width="88" height="31" alt="full_combo" title="full_combo">
 <img src="gif/one_miss.gif" width="88" height="31" alt="one_miss" title="one_miss">
 <img src="gif/headphones.gif" width="88" height="31" alt="headphones" title="headphones">
@@ -59,16 +60,32 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/one_more_try.gif" width="88" height="31" alt="one_more_try" title="one_more_try">
 <img src="gif/skill_issue.gif" width="88" height="31" alt="skill_issue" title="skill_issue">
 <img src="gif/insert_coin.gif" width="88" height="31" alt="insert_coin" title="insert_coin">
-<img src="gif/osu_circles.gif" width="88" height="31" alt="osu_circles" title="osu_circles">
-<img src="gif/osu_mods.gif" width="88" height="31" alt="osu_mods" title="osu_mods">
-<img src="gif/play_more.gif" width="88" height="31" alt="play_more" title="play_more">
-<img src="gif/wysi.gif" width="88" height="31" alt="wysi" title="wysi">
-<img src="gif/map_timeline.gif" width="88" height="31" alt="map_timeline" title="map_timeline">
-<img src="gif/map_graveyard.gif" width="88" height="31" alt="map_graveyard" title="map_graveyard">
 <img src="gif/iidx_keys.gif" width="88" height="31" alt="iidx_keys" title="iidx_keys">
 <img src="gif/iidx_lanes.gif" width="88" height="31" alt="iidx_lanes" title="iidx_lanes">
 <img src="gif/iidx_lamps.gif" width="88" height="31" alt="iidx_lamps" title="iidx_lamps">
 <img src="gif/iidx_gauge.gif" width="88" height="31" alt="iidx_gauge" title="iidx_gauge">
+</p>
+
+## osu!
+
+<p>
+<img src="gif/osu_circles.gif" width="88" height="31" alt="osu_circles" title="osu_circles">
+<img src="gif/osu_mods.gif" width="88" height="31" alt="osu_mods" title="osu_mods">
+<img src="gif/mod_hidden.gif" width="88" height="31" alt="mod_hidden" title="mod_hidden">
+<img src="gif/mod_flashlight.gif" width="88" height="31" alt="mod_flashlight" title="mod_flashlight">
+<img src="gif/mod_doubletime.gif" width="88" height="31" alt="mod_doubletime" title="mod_doubletime">
+<img src="gif/mod_easy.gif" width="88" height="31" alt="mod_easy" title="mod_easy">
+<img src="gif/mod_spunout.gif" width="88" height="31" alt="mod_spunout" title="mod_spunout">
+<img src="gif/mod_suddendeath.gif" width="88" height="31" alt="mod_suddendeath" title="mod_suddendeath">
+<img src="gif/rank_ss.gif" width="88" height="31" alt="rank_ss" title="rank_ss">
+<img src="gif/rank_ss_silver.gif" width="88" height="31" alt="rank_ss_silver" title="rank_ss_silver">
+<img src="gif/play_more.gif" width="88" height="31" alt="play_more" title="play_more">
+<img src="gif/wysi.gif" width="88" height="31" alt="wysi" title="wysi">
+<img src="gif/map_timeline.gif" width="88" height="31" alt="map_timeline" title="map_timeline">
+<img src="gif/map_graveyard.gif" width="88" height="31" alt="map_graveyard" title="map_graveyard">
+<img src="gif/taiko_notes.gif" width="88" height="31" alt="taiko_notes" title="taiko_notes">
+<img src="gif/ctb_catch.gif" width="88" height="31" alt="ctb_catch" title="ctb_catch">
+<img src="gif/ctb_bananas.gif" width="88" height="31" alt="ctb_bananas" title="ctb_bananas">
 </p>
 
 ## Old web
@@ -94,6 +111,10 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/cat_approved.gif" width="88" height="31" alt="cat_approved" title="cat_approved">
 <img src="gif/touch_grass.gif" width="88" height="31" alt="touch_grass" title="touch_grass">
 <img src="gif/void_productions.gif" width="88" height="31" alt="void_productions" title="void_productions">
+<img src="gif/dont_press.gif" width="88" height="31" alt="dont_press" title="dont_press">
+<img src="gif/new_ribbon.gif" width="88" height="31" alt="new_ribbon" title="new_ribbon">
+<img src="gif/no_cookies.gif" width="88" height="31" alt="no_cookies" title="no_cookies">
+<img src="gif/no_autoplay.gif" width="88" height="31" alt="no_autoplay" title="no_autoplay">
 </p>
 
 ## Loops
@@ -106,6 +127,20 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/solids.gif" width="88" height="31" alt="solids" title="solids">
 <img src="gif/snow_night.gif" width="88" height="31" alt="snow_night" title="snow_night">
 <img src="gif/synth_grid.gif" width="88" height="31" alt="synth_grid" title="synth_grid">
+<img src="gif/lissajous.gif" width="88" height="31" alt="lissajous" title="lissajous">
+<img src="gif/moire.gif" width="88" height="31" alt="moire" title="moire">
+<img src="gif/starfield.gif" width="88" height="31" alt="starfield" title="starfield">
+<img src="gif/fire.gif" width="88" height="31" alt="fire" title="fire">
+<img src="gif/code_rain.gif" width="88" height="31" alt="code_rain" title="code_rain">
+</p>
+
+## Chaos
+
+<p>
+<img src="gif/ms_paint.gif" width="88" height="31" alt="ms_paint" title="ms_paint">
+<img src="gif/doodles.gif" width="88" height="31" alt="doodles" title="doodles">
+<img src="gif/too_much.gif" width="88" height="31" alt="too_much" title="too_much">
+<img src="gif/corrupted.gif" width="88" height="31" alt="corrupted" title="corrupted">
 </p>
 
 ## Media
@@ -122,6 +157,11 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <p>
 <img src="gif/six_seven.gif" width="88" height="31" alt="six_seven" title="six_seven">
 <img src="gif/brainrot.gif" width="88" height="31" alt="brainrot" title="brainrot">
+<img src="gif/git_gud.gif" width="88" height="31" alt="git_gud" title="git_gud">
+<img src="gif/cai_jiu_duo_lian.gif" width="88" height="31" alt="cai_jiu_duo_lian" title="cai_jiu_duo_lian">
+<img src="gif/six_digit.gif" width="88" height="31" alt="six_digit" title="six_digit">
+<img src="gif/small_pp.gif" width="88" height="31" alt="small_pp" title="small_pp">
+<img src="gif/masher.gif" width="88" height="31" alt="masher" title="masher">
 <img src="gif/wide_meme.gif" width="88" height="31" alt="wide_meme" title="wide_meme">
 <img src="gif/wide_frown.gif" width="88" height="31" alt="wide_frown" title="wide_frown">
 <img src="gif/wide_putin.gif" width="88" height="31" alt="wide_putin" title="wide_putin">
