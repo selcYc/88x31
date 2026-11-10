@@ -1,8 +1,8 @@
 # 88x31
 
-Animated 88×31 buttons in the old-web style. 149 so far.
+Animated 88×31 buttons in the old-web style. 174 so far.
 
-千禧年风格的 88×31 动图按钮，目前 149 张。
+千禧年风格的 88×31 动图按钮，目前 174 张。
 
 Take whatever you like, no credit needed. Hover a button to see its file name.
 
@@ -55,13 +55,16 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/skill_issue.gif" width="88" height="31" alt="skill_issue" title="skill_issue">
 <img src="gif/masher.gif" width="88" height="31" alt="masher" title="masher">
 <img src="gif/cai_jiu_duo_lian.gif" width="88" height="31" alt="cai_jiu_duo_lian" title="cai_jiu_duo_lian">
+<img src="gif/soflan.gif" width="88" height="31" alt="soflan" title="soflan">
 <img src="gif/insert_coin.gif" width="88" height="31" alt="insert_coin" title="insert_coin">
 <img src="gif/iidx_keys.gif" width="88" height="31" alt="iidx_keys" title="iidx_keys">
 <img src="gif/iidx_lanes.gif" width="88" height="31" alt="iidx_lanes" title="iidx_lanes">
 <img src="gif/iidx_lamps.gif" width="88" height="31" alt="iidx_lamps" title="iidx_lamps">
 <img src="gif/iidx_gauge.gif" width="88" height="31" alt="iidx_gauge" title="iidx_gauge">
+<img src="gif/kaiden.gif" width="88" height="31" alt="kaiden" title="kaiden">
 <img src="gif/popn_buttons.gif" width="88" height="31" alt="popn_buttons" title="popn_buttons">
 <img src="gif/sdvx_lasers.gif" width="88" height="31" alt="sdvx_lasers" title="sdvx_lasers">
+<img src="gif/maimai_ring.gif" width="88" height="31" alt="maimai_ring" title="maimai_ring">
 <img src="gif/headphones.gif" width="88" height="31" alt="headphones" title="headphones">
 <img src="gif/cd_spin.gif" width="88" height="31" alt="cd_spin" title="cd_spin">
 <img src="gif/cassette.gif" width="88" height="31" alt="cassette" title="cassette">
@@ -118,13 +121,17 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/touch_grass.gif" width="88" height="31" alt="touch_grass" title="touch_grass">
 <img src="gif/void_productions.gif" width="88" height="31" alt="void_productions" title="void_productions">
 <img src="gif/dont_press.gif" width="88" height="31" alt="dont_press" title="dont_press">
+<img src="gif/you_won.gif" width="88" height="31" alt="you_won" title="you_won">
+<img src="gif/hot_singles.gif" width="88" height="31" alt="hot_singles" title="hot_singles">
 <img src="gif/new_ribbon.gif" width="88" height="31" alt="new_ribbon" title="new_ribbon">
+<img src="gif/web_award.gif" width="88" height="31" alt="web_award" title="web_award">
 <img src="gif/no_cookies.gif" width="88" height="31" alt="no_cookies" title="no_cookies">
 <img src="gif/no_autoplay.gif" width="88" height="31" alt="no_autoplay" title="no_autoplay">
 <img src="gif/no_signal.gif" width="88" height="31" alt="no_signal" title="no_signal">
 <img src="gif/ms_paint.gif" width="88" height="31" alt="ms_paint" title="ms_paint">
 <img src="gif/doodles.gif" width="88" height="31" alt="doodles" title="doodles">
 <img src="gif/stick_fight.gif" width="88" height="31" alt="stick_fight" title="stick_fight">
+<img src="gif/sticker_bomb.gif" width="88" height="31" alt="sticker_bomb" title="sticker_bomb">
 <img src="gif/too_much.gif" width="88" height="31" alt="too_much" title="too_much">
 <img src="gif/corrupted.gif" width="88" height="31" alt="corrupted" title="corrupted">
 </p>
@@ -145,9 +152,14 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/fire.gif" width="88" height="31" alt="fire" title="fire">
 <img src="gif/code_rain.gif" width="88" height="31" alt="code_rain" title="code_rain">
 <img src="gif/sorting.gif" width="88" height="31" alt="sorting" title="sorting">
+<img src="gif/bogo_sort.gif" width="88" height="31" alt="bogo_sort" title="bogo_sort">
 <img src="gif/newton_cradle.gif" width="88" height="31" alt="newton_cradle" title="newton_cradle">
+<img src="gif/dna_helix.gif" width="88" height="31" alt="dna_helix" title="dna_helix">
 <img src="gif/train_window.gif" width="88" height="31" alt="train_window" title="train_window">
 <img src="gif/rain_city.gif" width="88" height="31" alt="rain_city" title="rain_city">
+<img src="gif/hourglass.gif" width="88" height="31" alt="hourglass" title="hourglass">
+<img src="gif/lighthouse.gif" width="88" height="31" alt="lighthouse" title="lighthouse">
+<img src="gif/ripples.gif" width="88" height="31" alt="ripples" title="ripples">
 </p>
 
 ## Memes
@@ -155,8 +167,10 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <p>
 <img src="gif/six_seven.gif" width="88" height="31" alt="six_seven" title="six_seven">
 <img src="gif/brainrot.gif" width="88" height="31" alt="brainrot" title="brainrot">
+<img src="gif/you_are_an_idiot.gif" width="88" height="31" alt="you_are_an_idiot" title="you_are_an_idiot">
 <img src="gif/git_gud.gif" width="88" height="31" alt="git_gud" title="git_gud">
 <img src="gif/nobody_asked.gif" width="88" height="31" alt="nobody_asked" title="nobody_asked">
+<img src="gif/washed.gif" width="88" height="31" alt="washed" title="washed">
 <img src="gif/wide_meme.gif" width="88" height="31" alt="wide_meme" title="wide_meme">
 <img src="gif/wide_frown.gif" width="88" height="31" alt="wide_frown" title="wide_frown">
 <img src="gif/wide_putin.gif" width="88" height="31" alt="wide_putin" title="wide_putin">
@@ -175,8 +189,19 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/danmaku.gif" width="88" height="31" alt="danmaku" title="danmaku">
 <img src="gif/penlights.gif" width="88" height="31" alt="penlights" title="penlights">
 <img src="gif/gacha.gif" width="88" height="31" alt="gacha" title="gacha">
+<img src="gif/gacha_meteor.gif" width="88" height="31" alt="gacha_meteor" title="gacha_meteor">
+<img src="gif/gacha_rings.gif" width="88" height="31" alt="gacha_rings" title="gacha_rings">
+<img src="gif/gacha_bag.gif" width="88" height="31" alt="gacha_bag" title="gacha_bag">
+<img src="gif/gacha_gate.gif" width="88" height="31" alt="gacha_gate" title="gacha_gate">
 <img src="gif/manpu.gif" width="88" height="31" alt="manpu" title="manpu">
 <img src="gif/peek_ears.gif" width="88" height="31" alt="peek_ears" title="peek_ears">
+<img src="gif/isekai_truck.gif" width="88" height="31" alt="isekai_truck" title="isekai_truck">
+<img src="gif/pity_90.gif" width="88" height="31" alt="pity_90" title="pity_90">
+<img src="gif/dusk_classroom.gif" width="88" height="31" alt="dusk_classroom" title="dusk_classroom">
+<img src="gif/dusk_rooftop.gif" width="88" height="31" alt="dusk_rooftop" title="dusk_rooftop">
+<img src="gif/dusk_crossing.gif" width="88" height="31" alt="dusk_crossing" title="dusk_crossing">
+<img src="gif/konbini.gif" width="88" height="31" alt="konbini" title="konbini">
+<img src="gif/tsuzuku.gif" width="88" height="31" alt="tsuzuku" title="tsuzuku">
 <img src="gif/anime_eyes.gif" width="88" height="31" alt="anime_eyes" title="anime_eyes">
 </p>
 
