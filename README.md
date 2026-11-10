@@ -1,8 +1,8 @@
 # 88x31
 
-Animated 88×31 buttons in the old-web style. 91 so far.
+Animated 88×31 buttons in the old-web style. 92 so far.
 
-千禧年风格的 88×31 动图按钮，目前 91 张。
+千禧年风格的 88×31 动图按钮，目前 92 张。
 
 Take whatever you like, no credit needed. Hover a button to see its file name.
 
@@ -109,6 +109,7 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/brainrot.gif" width="88" height="31" alt="brainrot" title="brainrot">
 <img src="gif/wide_meme.gif" width="88" height="31" alt="wide_meme" title="wide_meme">
 <img src="gif/wide_frown.gif" width="88" height="31" alt="wide_frown" title="wide_frown">
+<img src="gif/wide_putin.gif" width="88" height="31" alt="wide_putin" title="wide_putin">
 <img src="gif/doge_photo.gif" width="88" height="31" alt="doge_photo" title="doge_photo">
 <img src="gif/frog_photo.gif" width="88" height="31" alt="frog_photo" title="frog_photo">
 </p>
