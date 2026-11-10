@@ -1,0 +1,6 @@
+# This repository is an image host: only the finished GIFs and the README are published.
+# Everything else in this folder (generator script, source images, previews) stays local.
+/*
+!/gif/
+!/README.md
+!/.gitignore
