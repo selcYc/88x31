@@ -1,8 +1,8 @@
 # 88x31
 
-Animated 88×31 buttons in the old-web style. 85 so far.
+Animated 88×31 buttons in the old-web style. 91 so far.
 
-千禧年风格的 88×31 动图按钮，目前 85 张。
+千禧年风格的 88×31 动图按钮，目前 91 张。
 
 Take whatever you like, no credit needed. Hover a button to see its file name.
 
@@ -59,6 +59,12 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/one_more_try.gif" width="88" height="31" alt="one_more_try" title="one_more_try">
 <img src="gif/skill_issue.gif" width="88" height="31" alt="skill_issue" title="skill_issue">
 <img src="gif/insert_coin.gif" width="88" height="31" alt="insert_coin" title="insert_coin">
+<img src="gif/osu_circles.gif" width="88" height="31" alt="osu_circles" title="osu_circles">
+<img src="gif/osu_mods.gif" width="88" height="31" alt="osu_mods" title="osu_mods">
+<img src="gif/play_more.gif" width="88" height="31" alt="play_more" title="play_more">
+<img src="gif/wysi.gif" width="88" height="31" alt="wysi" title="wysi">
+<img src="gif/map_timeline.gif" width="88" height="31" alt="map_timeline" title="map_timeline">
+<img src="gif/map_graveyard.gif" width="88" height="31" alt="map_graveyard" title="map_graveyard">
 </p>
 
 ## Old web
@@ -133,23 +139,6 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/meme_ticker.gif" width="88" height="31" alt="meme_ticker" title="meme_ticker">
 </p>
 
-## Use
-
-Every file lives at `https://raw.githubusercontent.com/selcYc/88x31/main/gif/<name>.gif`.
-
-HTML:
-
-```html
-<img src="https://raw.githubusercontent.com/selcYc/88x31/main/gif/now_fable.gif" width="88" height="31" alt="Fable Now!">
-```
-
-BBCode (osu! me! page and the like):
-
-```
-[img]https://raw.githubusercontent.com/selcYc/88x31/main/gif/now_fable.gif[/img]
-```
-
 ## Notes
 
 - The product and company names on the Now! buttons belong to their owners. These are fan buttons with no affiliation, and the icons are original drawings, not anyone's logo.
-- `wide_meme`, `wide_frown`, `doge_photo` and `frog_photo` are edits of existing meme images that are not mine, so "take whatever you like" does not cover those four.
