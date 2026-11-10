@@ -1,8 +1,8 @@
 # 88x31
 
-Animated 88×31 buttons in the old-web style. 92 so far.
+Animated 88×31 buttons in the old-web style. 102 so far.
 
-千禧年风格的 88×31 动图按钮，目前 92 张。
+千禧年风格的 88×31 动图按钮，目前 102 张。
 
 Take whatever you like, no credit needed. Hover a button to see its file name.
 
@@ -65,6 +65,10 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/wysi.gif" width="88" height="31" alt="wysi" title="wysi">
 <img src="gif/map_timeline.gif" width="88" height="31" alt="map_timeline" title="map_timeline">
 <img src="gif/map_graveyard.gif" width="88" height="31" alt="map_graveyard" title="map_graveyard">
+<img src="gif/iidx_keys.gif" width="88" height="31" alt="iidx_keys" title="iidx_keys">
+<img src="gif/iidx_lanes.gif" width="88" height="31" alt="iidx_lanes" title="iidx_lanes">
+<img src="gif/iidx_lamps.gif" width="88" height="31" alt="iidx_lamps" title="iidx_lamps">
+<img src="gif/iidx_gauge.gif" width="88" height="31" alt="iidx_gauge" title="iidx_gauge">
 </p>
 
 ## Old web
@@ -86,11 +90,22 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/terminal.gif" width="88" height="31" alt="terminal" title="terminal">
 <img src="gif/bounce.gif" width="88" height="31" alt="bounce" title="bounce">
 <img src="gif/fish_tank.gif" width="88" height="31" alt="fish_tank" title="fish_tank">
-<img src="gif/lava_lamp.gif" width="88" height="31" alt="lava_lamp" title="lava_lamp">
 <img src="gif/coffee.gif" width="88" height="31" alt="coffee" title="coffee">
 <img src="gif/cat_approved.gif" width="88" height="31" alt="cat_approved" title="cat_approved">
 <img src="gif/touch_grass.gif" width="88" height="31" alt="touch_grass" title="touch_grass">
 <img src="gif/void_productions.gif" width="88" height="31" alt="void_productions" title="void_productions">
+</p>
+
+## Loops
+
+<p>
+<img src="gif/lava_lamp.gif" width="88" height="31" alt="lava_lamp" title="lava_lamp">
+<img src="gif/pendulum_wave.gif" width="88" height="31" alt="pendulum_wave" title="pendulum_wave">
+<img src="gif/life_garden.gif" width="88" height="31" alt="life_garden" title="life_garden">
+<img src="gif/plasma.gif" width="88" height="31" alt="plasma" title="plasma">
+<img src="gif/solids.gif" width="88" height="31" alt="solids" title="solids">
+<img src="gif/snow_night.gif" width="88" height="31" alt="snow_night" title="snow_night">
+<img src="gif/synth_grid.gif" width="88" height="31" alt="synth_grid" title="synth_grid">
 </p>
 
 ## Media
