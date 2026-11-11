@@ -1,8 +1,8 @@
 # 88x31
 
-Animated 88×31 buttons in the old-web style. 174 so far.
+Animated 88×31 buttons in the old-web style. 187 so far.
 
-千禧年风格的 88×31 动图按钮，目前 174 张。
+千禧年风格的 88×31 动图按钮，目前 187 张。
 
 Take whatever you like, no credit needed. Hover a button to see its file name.
 
@@ -70,6 +70,12 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/cassette.gif" width="88" height="31" alt="cassette" title="cassette">
 <img src="gif/doujin.gif" width="88" height="31" alt="doujin" title="doujin">
 <img src="gif/digital_archive.gif" width="88" height="31" alt="digital_archive" title="digital_archive">
+<img src="gif/genre_tracker.gif" width="88" height="31" alt="genre_tracker" title="genre_tracker">
+<img src="gif/genre_eurobeat.gif" width="88" height="31" alt="genre_eurobeat" title="genre_eurobeat">
+<img src="gif/genre_vaporwave.gif" width="88" height="31" alt="genre_vaporwave" title="genre_vaporwave">
+<img src="gif/genre_speedcore.gif" width="88" height="31" alt="genre_speedcore" title="genre_speedcore">
+<img src="gif/genre_lofi.gif" width="88" height="31" alt="genre_lofi" title="genre_lofi">
+<img src="gif/genre_djent.gif" width="88" height="31" alt="genre_djent" title="genre_djent">
 </p>
 
 ## osu!
@@ -112,6 +118,9 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/click_here.gif" width="88" height="31" alt="click_here" title="click_here">
 <img src="gif/error_dialog.gif" width="88" height="31" alt="error_dialog" title="error_dialog">
 <img src="gif/error_cascade.gif" width="88" height="31" alt="error_cascade" title="error_cascade">
+<img src="gif/bliss.gif" width="88" height="31" alt="bliss" title="bliss">
+<img src="gif/windows_9.gif" width="88" height="31" alt="windows_9" title="windows_9">
+<img src="gif/chrome_ram.gif" width="88" height="31" alt="chrome_ram" title="chrome_ram">
 <img src="gif/typewriter.gif" width="88" height="31" alt="typewriter" title="typewriter">
 <img src="gif/terminal.gif" width="88" height="31" alt="terminal" title="terminal">
 <img src="gif/bounce.gif" width="88" height="31" alt="bounce" title="bounce">
@@ -160,6 +169,9 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/hourglass.gif" width="88" height="31" alt="hourglass" title="hourglass">
 <img src="gif/lighthouse.gif" width="88" height="31" alt="lighthouse" title="lighthouse">
 <img src="gif/ripples.gif" width="88" height="31" alt="ripples" title="ripples">
+<img src="gif/illusion_cafe_wall.gif" width="88" height="31" alt="illusion_cafe_wall" title="illusion_cafe_wall">
+<img src="gif/illusion_feet.gif" width="88" height="31" alt="illusion_feet" title="illusion_feet">
+<img src="gif/illusion_lilac.gif" width="88" height="31" alt="illusion_lilac" title="illusion_lilac">
 </p>
 
 ## Memes
@@ -185,6 +197,7 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 ## Anime
 
 <p>
+<img src="gif/bad_apple.gif" width="88" height="31" alt="bad_apple" title="bad_apple">
 <img src="gif/vn_textbox.gif" width="88" height="31" alt="vn_textbox" title="vn_textbox">
 <img src="gif/danmaku.gif" width="88" height="31" alt="danmaku" title="danmaku">
 <img src="gif/penlights.gif" width="88" height="31" alt="penlights" title="penlights">
