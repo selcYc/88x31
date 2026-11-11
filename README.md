@@ -62,6 +62,7 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/iidx_lamps.gif" width="88" height="31" alt="iidx_lamps" title="iidx_lamps">
 <img src="gif/iidx_gauge.gif" width="88" height="31" alt="iidx_gauge" title="iidx_gauge">
 <img src="gif/kaiden.gif" width="88" height="31" alt="kaiden" title="kaiden">
+<img src="gif/taiko_notes.gif" width="88" height="31" alt="taiko_notes" title="taiko_notes">
 <img src="gif/popn_buttons.gif" width="88" height="31" alt="popn_buttons" title="popn_buttons">
 <img src="gif/sdvx_lasers.gif" width="88" height="31" alt="sdvx_lasers" title="sdvx_lasers">
 <img src="gif/maimai_ring.gif" width="88" height="31" alt="maimai_ring" title="maimai_ring">
@@ -97,7 +98,6 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/small_pp.gif" width="88" height="31" alt="small_pp" title="small_pp">
 <img src="gif/map_timeline.gif" width="88" height="31" alt="map_timeline" title="map_timeline">
 <img src="gif/map_graveyard.gif" width="88" height="31" alt="map_graveyard" title="map_graveyard">
-<img src="gif/taiko_notes.gif" width="88" height="31" alt="taiko_notes" title="taiko_notes">
 <img src="gif/ctb_catch.gif" width="88" height="31" alt="ctb_catch" title="ctb_catch">
 <img src="gif/ctb_bananas.gif" width="88" height="31" alt="ctb_bananas" title="ctb_bananas">
 </p>
