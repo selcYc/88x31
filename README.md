@@ -1,8 +1,8 @@
 # 88x31
 
-Animated 88×31 buttons in the old-web style. 187 so far.
+Animated 88×31 buttons in the old-web style. 200 so far.
 
-千禧年风格的 88×31 动图按钮，目前 187 张。
+千禧年风格的 88×31 动图按钮，目前 200 张。
 
 Take whatever you like, no credit needed. Hover a button to see its file name.
 
@@ -39,6 +39,7 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/fable_marquee.gif" width="88" height="31" alt="fable_marquee" title="fable_marquee">
 <img src="gif/claudish.gif" width="88" height="31" alt="claudish" title="claudish">
 <img src="gif/thinking.gif" width="88" height="31" alt="thinking" title="thinking">
+<img src="gif/context_full.gif" width="88" height="31" alt="context_full" title="context_full">
 </p>
 
 ## Rhythm & music
@@ -77,6 +78,8 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/genre_speedcore.gif" width="88" height="31" alt="genre_speedcore" title="genre_speedcore">
 <img src="gif/genre_lofi.gif" width="88" height="31" alt="genre_lofi" title="genre_lofi">
 <img src="gif/genre_djent.gif" width="88" height="31" alt="genre_djent" title="genre_djent">
+<img src="gif/piano_roll.gif" width="88" height="31" alt="piano_roll" title="piano_roll">
+<img src="gif/spectrum.gif" width="88" height="31" alt="spectrum" title="spectrum">
 </p>
 
 ## osu!
@@ -100,6 +103,7 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/map_graveyard.gif" width="88" height="31" alt="map_graveyard" title="map_graveyard">
 <img src="gif/ctb_catch.gif" width="88" height="31" alt="ctb_catch" title="ctb_catch">
 <img src="gif/ctb_bananas.gif" width="88" height="31" alt="ctb_bananas" title="ctb_bananas">
+<img src="gif/ur_bar.gif" width="88" height="31" alt="ur_bar" title="ur_bar">
 </p>
 
 ## Web 1.0
@@ -121,6 +125,9 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/bliss.gif" width="88" height="31" alt="bliss" title="bliss">
 <img src="gif/windows_9.gif" width="88" height="31" alt="windows_9" title="windows_9">
 <img src="gif/chrome_ram.gif" width="88" height="31" alt="chrome_ram" title="chrome_ram">
+<img src="gif/minesweeper.gif" width="88" height="31" alt="minesweeper" title="minesweeper">
+<img src="gif/defrag.gif" width="88" height="31" alt="defrag" title="defrag">
+<img src="gif/pipes.gif" width="88" height="31" alt="pipes" title="pipes">
 <img src="gif/typewriter.gif" width="88" height="31" alt="typewriter" title="typewriter">
 <img src="gif/terminal.gif" width="88" height="31" alt="terminal" title="terminal">
 <img src="gif/bounce.gif" width="88" height="31" alt="bounce" title="bounce">
@@ -172,6 +179,9 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/illusion_cafe_wall.gif" width="88" height="31" alt="illusion_cafe_wall" title="illusion_cafe_wall">
 <img src="gif/illusion_feet.gif" width="88" height="31" alt="illusion_feet" title="illusion_feet">
 <img src="gif/illusion_lilac.gif" width="88" height="31" alt="illusion_lilac" title="illusion_lilac">
+<img src="gif/cup_noodle_timer.gif" width="88" height="31" alt="cup_noodle_timer" title="cup_noodle_timer">
+<img src="gif/pong.gif" width="88" height="31" alt="pong" title="pong">
+<img src="gif/tunnel.gif" width="88" height="31" alt="tunnel" title="tunnel">
 </p>
 
 ## Memes
@@ -186,6 +196,8 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/wide_meme.gif" width="88" height="31" alt="wide_meme" title="wide_meme">
 <img src="gif/wide_frown.gif" width="88" height="31" alt="wide_frown" title="wide_frown">
 <img src="gif/wide_putin.gif" width="88" height="31" alt="wide_putin" title="wide_putin">
+<img src="gif/loss.gif" width="88" height="31" alt="loss" title="loss">
+<img src="gif/doomscroll.gif" width="88" height="31" alt="doomscroll" title="doomscroll">
 <img src="gif/doge_photo.gif" width="88" height="31" alt="doge_photo" title="doge_photo">
 <img src="gif/frog_photo.gif" width="88" height="31" alt="frog_photo" title="frog_photo">
 <img src="gif/pineapple_hello.gif" width="88" height="31" alt="pineapple_hello" title="pineapple_hello">
@@ -194,7 +206,7 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/pineapple_exe.gif" width="88" height="31" alt="pineapple_exe" title="pineapple_exe">
 </p>
 
-## Anime
+## ACG
 
 <p>
 <img src="gif/bad_apple.gif" width="88" height="31" alt="bad_apple" title="bad_apple">
@@ -216,6 +228,7 @@ Take whatever you like, no credit needed. Hover a button to see its file name.
 <img src="gif/konbini.gif" width="88" height="31" alt="konbini" title="konbini">
 <img src="gif/tsuzuku.gif" width="88" height="31" alt="tsuzuku" title="tsuzuku">
 <img src="gif/anime_eyes.gif" width="88" height="31" alt="anime_eyes" title="anime_eyes">
+<img src="gif/hanabi.gif" width="88" height="31" alt="hanabi" title="hanabi">
 </p>
 
 ## Crypto
